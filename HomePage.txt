@@ -1,2 +1,6 @@
 Home Page
+
 edited in remote repo
+
+changed in working directory
+
