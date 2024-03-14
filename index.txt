@@ -3,5 +3,4 @@ File one
 updated in in local
 
 updated in remote
-revert testing
 
